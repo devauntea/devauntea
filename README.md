@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey, I'm Devauntae 👋
 
-<!--
-**devauntea/devauntea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS @ Fordham University** · **AI Explorer** · **Builder of Weird Things**
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate class of May 2026 who spends way too much time thinking about how AI can help humans discover, create, and connect. I don't just write code; I design small, reversible experiments, capture the signal, and ship iteratively. My mindset? *Fail with purpose.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Currently Building: Aspect Niche
+
+**An interactive hobby discovery engine** that maps your interests to related activities using an Obsidian-style graph UI, LLM-powered recommendations, and real-world location data.
+
+- 🧠 **OpenAI API** for intelligent, mood-aware hobby recommendations
+- 🗺️ **Google Maps + Places API** to surface nearby classes, venues, and communities
+- ⚡ **React/Next.js + dynamic graph data model** with real-time node expansion and clustering
+
+*The goal: help people break out of their routine and find their next obsession.*
+
+---
+
+## 🧪 How I Work
+
+&gt; *"Translate abstract ideas into concrete projects."* — A manager who actually said this about me
+
+- **Communicate early, write things down, instrument what I build**
+- **Comfortable learning, unlearning, and relearning** as the landscape shifts
+- **Cross-functional by default** — I've worked with product, engineering, business, and academic stakeholders
+- **Teaching is my debugging superpower** — years of tutoring and peer instruction means I explain complex ideas clearly
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · Java · C++ · JavaScript · Swift
+
+**ML/AI:** PyTorch · TensorFlow · Scikit-Learn · AWS Bedrock · OpenAI API
+
+**Web & Tools:** React.js · Next.js · Tailwind · RESTful APIs · FFmpeg · Git · Jupyter · Postman
+
+---
+
+## 🌱 Currently Exploring
+
+- Multimodal AI pipelines (speech recognition → diarization → TTS)
+- Graph-based recommendation systems
+- How to make AI feel less like a tool and more like a creative partner
+
+---
+
+## 🧵 When I'm Not Coding
+
+You'll find me **rock climbing**, **exploring new neighborhoods** with a vintage digital camera in hand, **sewing and upcycling clothes**, or **teaching someone something new**. I believe the best engineers are curious humans first.
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** devauntaenorman@gmail.com
+- **LinkedIn:** [linkedin.com/in/devauntae-norman](https://www.linkedin.com/in/devauntae-norman/)
+- **Portfolio/GitHub:** You're already here 😄
+
+*I'm always down to talk about AI, side projects, or that one niche hobby you can't stop thinking about.*
