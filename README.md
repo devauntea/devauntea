@@ -29,24 +29,6 @@ I’m a Computer Science graduate class of May 2026 who spends way too much time
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** Python · Java · C++ · JavaScript · Swift
-
-**ML/AI:** PyTorch · TensorFlow · Scikit-Learn · AWS Bedrock · OpenAI API
-
-**Web & Tools:** React.js · Next.js · Tailwind · RESTful APIs · FFmpeg · Git · Jupyter · Postman
-
----
-
-## 🌱 Currently Exploring
-
-- Multimodal AI pipelines (speech recognition → diarization → TTS)
-- Graph-based recommendation systems
-- How to make AI feel less like a tool and more like a creative partner
-
----
-
 ## 🧵 When I'm Not Coding
 
 You'll find me **rock climbing**, **exploring new neighborhoods** with a vintage digital camera in hand, **sewing and upcycling clothes**, or **teaching someone something new**. I believe the best engineers are curious humans first.
