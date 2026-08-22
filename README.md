@@ -20,12 +20,12 @@ I’m a Computer Science graduate class of May 2026 who spends way too much time
 
 ## 🧪 How I Work
 
-&gt; *"Translate abstract ideas into concrete projects."* — A manager who actually said this about me
+&gt; I was once told I *"Translate abstract ideas into concrete projects."*
 
 - **Communicate early, write things down, instrument what I build**
 - **Comfortable learning, unlearning, and relearning** as the landscape shifts
-- **Cross-functional by default** — I've worked with product, engineering, business, and academic stakeholders
-- **Teaching is my debugging superpower** — years of tutoring and peer instruction means I explain complex ideas clearly
+- **Cross-functional by default** I've worked with product, engineering, business, and academic stakeholders
+- **Teaching is my debugging superpower** years of tutoring and peer instruction means I explain complex ideas clearly
 
 ---
 
@@ -39,6 +39,6 @@ You'll find me **rock climbing**, **exploring new neighborhoods** with a vintage
 
 - **Email:** devauntaenorman@gmail.com
 - **LinkedIn:** [linkedin.com/in/devauntae-norman](https://www.linkedin.com/in/devauntae-norman/)
-- **Portfolio/GitHub:** You're already here 😄
+- **Portfolio/GitHub:** https://devauntaenorman.vercel.app/ (seems like your already on my GitHub)
 
 *I'm always down to talk about AI, side projects, or that one niche hobby you can't stop thinking about.*
