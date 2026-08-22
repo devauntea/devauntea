@@ -23,9 +23,9 @@ I’m a Computer Science graduate class of May 2026 who spends way too much time
 &gt; I was once told I *"Translate abstract ideas into concrete projects."*
 
 - **Communicate early, write things down, instrument what I build**
-- **Comfortable learning, unlearning, and relearning** as the landscape shifts
-- **Cross-functional by default** I've worked with product, engineering, business, and academic stakeholders
-- **Teaching is my debugging superpower** years of tutoring and peer instruction means I explain complex ideas clearly
+- **Comfortable learning, unlearning, and relearning**
+- **Cross-functional by default** (I've worked with product, engineering, business, and academic stakeholders)
+- **Teaching is my debugging superpower**: years of tutoring and peer instruction means I explain complex ideas clearly
 
 ---
 
